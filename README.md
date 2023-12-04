@@ -182,7 +182,6 @@ def has_combination_sum_recursive(numbers, target_sum, current_sum=0):
     background_im.jpg - 121155 bytes
     bgnd_img_orig_pexels-nate-hovee-4659963.jpg - 3778924 bytes
     pongify.py - 37626 bytes
-    pongify.spec - 683 bytes
     requirements.txt - 1964 bytes
     sound/
         analog-warm-pluck-132826.mp3 - 384768 bytes
